@@ -8,3 +8,5 @@ Probando **Markdown**
 * Que tiene un link a [Tuhshe](http://tuhshe.com/)
 
 Agregamos algo mas de _texto_ con **Markdown**
+
+> Una cita de algo.
