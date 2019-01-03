@@ -15,3 +15,10 @@ Agregamos algo mas de _texto_ con **Markdown**
 
 # Un Título
 ## Un Subtítulo
+
+Un poco de código
+```php
+if (isAwesome){
+  return true
+}
+```
