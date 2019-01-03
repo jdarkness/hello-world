@@ -12,3 +12,6 @@ Agregamos algo mas de _texto_ con **Markdown**
 > Una cita de algo.
 
 **Más** cambios _al archivo_
+
+# Un Título
+## Un Subtítulo
