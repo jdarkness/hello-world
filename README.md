@@ -24,3 +24,8 @@ if (isAwesome){
 ```
 Una imagen
 ![Image of Tentocats](https://octodex.github.com/images/tentocats.jpg)
+
+Una lista por hacer:
+
+- [ ] Comprar helado
+- [ ] Comprar pizza
