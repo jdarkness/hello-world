@@ -28,4 +28,4 @@ Una imagen
 Una lista por hacer:
 
 - [ ] Comprar helado
-- [ ] Comprar pizza
+- [X] Comprar pizza
