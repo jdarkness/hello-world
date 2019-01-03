@@ -22,3 +22,5 @@ if (isAwesome){
   return true
 }
 ```
+Una imagen
+![Image of Tentocats](https://octodex.github.com/images/tentocats.jpg)
