@@ -27,5 +27,5 @@ Una imagen
 
 Una lista por hacer:
 
-- [ ] Comprar helado
+- [X] Comprar helado
 - [X] Comprar pizza
