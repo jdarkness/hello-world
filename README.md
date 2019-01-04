@@ -29,6 +29,6 @@ Una lista por hacer:
 
 - [X] Comprar helado
 - [X] Comprar pizza
-- [ ] Comprar pizza
-- [ ] Comprar pizza
-- [ ] Comprar pizza
+- [ ] Comprar pan
+- [ ] Comprar leche
+- [ ] Comprar café, mucho café
